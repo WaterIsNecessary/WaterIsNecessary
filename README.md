@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaterIsNecessary.
 - 👀 I’m interested in web development. I have proficiency in HTML, CSS and Javascript.
-- 🌱 I'm currently learning the MERN stack as well Typescript.
+- 🌱 I'm currently learning advanced JavaScript, HTML and CSS and will begin the MERN stack as well as Typescript soon.
 - 💞️ I’m looking to collaborate on open source projects soon..
 
 <!---
