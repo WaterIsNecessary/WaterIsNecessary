@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaterIsNecessary.
-- 👀 I’m interested in web development, machine learning, generative ai and general programming. I am currently proficient in HTML, CSS, JavaScript and Python.
-- 🌱 I'm currently learning the MERN stack as well as planting the seeds for future learning in ML. Accomplishing these learning goals both through independent learning and whilst completing a bachelor in comp sci (specilization in both programming and ML)
+- 👀 I’m interested in a wide spectre of fields (fullstack) but primarily machine learning, the practical and theoretical implementations of it and the mathematics associated with it.
+- 🌱 I'm currently learning a wide stack of technologies (web dev, backend, etc) whilst I complete my bachelor in informatics.
 - 💞️ I’m looking to collaborate on open source projects soon..
 
 <!---
